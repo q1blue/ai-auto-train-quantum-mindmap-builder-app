@@ -1,0 +1,42 @@
+{
+   "owner":"Msx752",
+   "repo":"RiotGamesAPI",
+   "description":"Riot Games API Library v3 (all in one)",
+   "language":"C#",
+   "links":[
+      {
+         "name":"AspNetCore",
+         "url":"https://www.nuget.org/packages/RiotGamesAPI/"
+      },
+      {
+         "name":"NetStandard",
+         "url":"https://www.nuget.org/packages/RiotGamesAPI/"
+      },
+      {
+         "name":"AspNet",
+         "url":"https://www.nuget.org/packages/RiotGamesAPI/"
+      },
+      {
+       "name":"Documentation",
+       "url":"https://riotgamesapi.readme.io/docs"
+      }
+   ],
+   "metadata":{
+      "v3":true,
+      "async":true,
+      "caching":{
+         "static-api":true,
+         "non-static-api":true
+      },
+      "rate-limiter":{
+         "header-driven":true,
+         "method-rate-limiting":true,
+         "per-region":true,
+         "per-endpoint":true
+      }
+   },
+   "tags":[
+      "v3",
+      "rate-limiting"
+   ]
+}

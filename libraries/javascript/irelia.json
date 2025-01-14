@@ -1,0 +1,10 @@
+{
+        "owner": "perezpaya",
+        "repo": "Irelia",
+        "language": "Javascript",
+        "links": [{
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/irelia"
+        }],
+        "metadata": {}
+    }

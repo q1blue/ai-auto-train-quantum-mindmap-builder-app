@@ -1,0 +1,28 @@
+{
+    "owner": "MingweiSamuel",
+    "repo": "Zyra",
+    "language": "Java",
+    "links": [
+        {
+            "name": "Maven",
+            "url": "https://search.maven.org/search?q=g:com.mingweisamuel.zyra%20AND%20a:zyra"
+        },
+        {
+            "name": "Nightlies",
+            "url": "http://www.mingweisamuel.com/Zyra/"
+        },
+        {
+            "name": "Javadoc",
+            "url": "http://www.mingweisamuel.com/Zyra/apidocs/"
+        }
+    ],
+    "metadata": {
+        "async": true,
+        "rate-limiter": true,
+        "retries": true
+    },
+    "tags": [
+        "v3",
+        "rate-limiting"
+    ]
+}

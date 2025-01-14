@@ -1,0 +1,26 @@
+{
+  "owner": "KnutZuidema",
+  "repo": "golio",
+  "language": "Go",
+  "links": [
+    {
+      "name": "src",
+      "url": "https://github.com/KnutZuidema/golio"
+    },
+    {
+      "name": "docs",
+      "url": "https://pkg.go.dev/github.com/KnutZuidema/golio"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0"
+  },
+  "tags": [
+    "v4",
+    "rate-limiting",
+    "caching",
+    "lol",
+    "lor",
+    "val"
+  ]
+}

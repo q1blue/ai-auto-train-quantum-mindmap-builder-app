@@ -1,0 +1,38 @@
+{
+    "owner": "Colorfulstan",
+    "repo": "LeagueJS",
+    "language": "JavaScript",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/leaguejs"
+        },
+        {
+            "name": "gitter",
+            "url": "https://gitter.im/League-JS/"
+        }
+    ],
+    "metadata": {
+        "version": "2.0.1",
+        "unit-tested": true,
+        "rate-limiter": {
+            "header-driven": true,
+            "method-rate-limiting": true,
+            "per-region": true,
+            "per-endpoint": true,
+            "burst": true,
+            "spread": true
+        },
+        "cacher": {
+            "in-memory": true,
+            "redis": false,
+            "db": false
+        }
+    },
+    "tags": [
+        "v4",
+        "caching",
+        "ddragon",
+        "rate-limiting"
+    ]
+}

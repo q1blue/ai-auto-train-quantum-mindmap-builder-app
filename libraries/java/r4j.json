@@ -1,0 +1,18 @@
+{
+    "owner":"stelar7",
+    "repo":"R4J",
+    "language":"Java",
+    "description":"A Java library containing the API for every Riot game",
+    "links":[],
+    "metadata":{},
+    "tags":[
+        "v4",
+        "v5",
+        "lcu",
+        "ingame",
+        "lol",
+        "tft",
+        "lor",
+        "val"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "owner": "pseudonym117",
+    "repo": "Riot-Watcher",
+    "description": "A thin Riot API wrapper focused on simplicity and ease of use",
+    "language": "Python",
+    "links": [
+        {
+            "name": "Documentation",
+            "url": "http://riot-watcher.readthedocs.io/en/latest/"
+        },
+        {
+            "name": "PyPi",
+            "url": "https://pypi.python.org/pypi/riotwatcher"
+        }
+    ],
+    "metadata": {},
+    "tags": [
+        "v4",
+        "rate-limiting",
+        "tft",
+        "lor",
+        "val"
+    ]
+}

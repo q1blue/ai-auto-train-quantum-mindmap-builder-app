@@ -1,0 +1,23 @@
+{
+  "owner": "BenFradet",
+  "repo": "RiotSharp",
+  "language": "C#",
+  "description": "RiotSharp's ASP.NET Core integration. **NOTE: Library is not actively maintained! You will have to fork the project and add missing enum values, classes and properties.**",
+  "links": [],
+  "metadata": {
+    "v4": true,
+    "async": true,
+    "caching": false,
+    "rate-limiter": {
+      "header-driven": false,
+      "method-rate-limiting": true,
+      "per-region": true,
+      "per-endpoint": true
+    }
+  },
+  "tags": [
+    "v4",
+    "rate-limiting",
+    "asp-net-core"
+  ]
+}
