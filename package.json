@@ -22,7 +22,7 @@
     "bluebird": "^3.5.3",
     "dateformat": "^3.0.3",
     "github": "^14.0.0",
-    "glob": "^7.1.3",
+    "glob": "^11.0.1",
     "jsonschema": "^1.1.1",
     "npm": "^9.8.1"
   }
